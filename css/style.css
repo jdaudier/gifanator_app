@@ -1,0 +1,141 @@
+body {
+	position: relative;
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 0.15em;
+	background-image: url("../img/brickwall.png");
+	background-repeat: repeat;
+}
+
+a {
+	text-decoration: none;
+	color: #222;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Londrina Solid', cursive;
+	letter-spacing: 0.2em;
+	font-size: 4em;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Londrina Solid', cursive;
+	letter-spacing: 0.2em;
+	color: #fa5021;
+	margin: 0;
+}
+
+h3 {
+	text-align: center;
+	font-size: 1.7em;
+	font-weight: bold;
+	width: 100%;
+	margin-bottom: 0;
+}
+
+h4 {
+	text-align: center;
+	font-size: 3em;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	width: 100%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-style: solid;
+	border-color: #fa5021;
+	border-radius: 4px;
+}
+
+.container {
+	width: 636px;
+	margin: 0 auto;
+}
+
+#phone_number {
+	text-align: center;
+	background-color: white;
+	border-radius: 4px;
+	width: 100%;
+}
+
+#bottom {
+	margin-top: 6.6%;
+}
+
+.headings, .funwords {
+	font-family: 'Londrina Solid', cursive;
+	font-size: 1.5em;
+	letter-spacing: 0.2em;
+	color: #fa5021;
+	margin-bottom: 0;
+}
+
+.funwords {
+	text-align: center;
+	color: #4f5050;
+	font-size: 2em;
+}
+
+.subheadings {
+	font-family: 'Londrina Solid', cursive;
+	font-size: 1.5em;
+	letter-spacing: 0.2em;
+	color: #678fff;
+	margin-bottom: 0;
+}
+
+ul {
+	margin-top: 4px;
+}
+
+li {
+	font-size: 1.2em;
+	line-height: 1.875em;
+	color: #4f5050;
+}
+
+.keyword {
+	background-color: white;
+	border-style: solid;
+	border-width: thin;
+	border-color: #4f5050; 
+	padding: .05% .6%;
+}
+
+section {
+	width: 566.40625px;
+	background-color: white;
+	height: 954px;
+	padding: 0 5% 5% 5%;
+	border-style: solid;
+	border-color: #fa5021;
+	border-radius: 4px;
+	margin-top: 8%;
+	margin-bottom: 4%;
+}
+
+#divider {
+	margin-bottom: 0;
+}
+
+#negative {
+	float: left;
+}
+
+#positive {
+	float: right;
+}
+
+footer {
+	height: 80px;
+}
+
+footer form {
+	text-align: center;
+}
